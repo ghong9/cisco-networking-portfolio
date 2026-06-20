@@ -1,12 +1,22 @@
 # Cisco Networking Portfolio
 ### Gerritt Hong
 
-Welcome to my Cisco CCNP networking portfolio. This repository contains hands-on lab assignments completed as part of my Cisco networking coursework, along with my resume.
+B.S. Electrical & Computer Engineering student at Oregon State University (Honors College, Expected 2030), currently holding a **Cisco Certified Network Associate (CCNA)** certification. This portfolio showcases hands-on networking labs completed through my Cisco CCNP coursework at Bellevue College.
+
+📧 gerritthong@gmail.com · 📍 Bellevue, WA · [GitHub](https://github.com/ghong9)
 
 ---
 
 ## 📄 Resume
 - [Gerritt_Hong_Resume.docx](./Gerritt_Hong_Resume.docx)
+
+---
+
+## 🏅 Certifications
+- **Cisco Certified Network Associate (CCNA)** — expires June 2028
+- **CCNA: Enterprise Networking, Security & Automation** — Cisco Networking Academy
+- **DELE B2** — Official Spanish Language Diploma (Instituto Cervantes)
+- **Seal of Biliteracy** — Spanish (State of Washington)
 
 ---
 
@@ -23,13 +33,12 @@ Welcome to my Cisco CCNP networking portfolio. This repository contains hands-on
 
 ---
 
-## 🛠️ Skills Demonstrated
-- Routing protocols (OSPF, BGP)
-- Network security and attack mitigation
-- Cloud fundamentals and virtualization
-- Web server configuration
-- Windows OS installation and setup
+## 🛠️ Technical Skills
+- **Networking:** TCP/IP, Routing & Switching, VLANs, Network Security, Enterprise Automation
+- **Programming & Development:** C#, HTML/CSS, JavaScript, Unity Engine, Web Development
+- **Tools & Platforms:** Cisco IOS, Unity, Git, VS Code
+- **Languages:** English (native), Spanish (professional proficiency)
 
 ---
 
-*Cisco CCNP Coursework Portfolio*
+*Cisco CCNP Coursework Portfolio · Bellevue College*
